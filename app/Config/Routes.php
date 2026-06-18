@@ -3,7 +3,8 @@
 use CodeIgniter\Router\RouteCollection;
 
 /** @var RouteCollection $routes */
-$routes->get('/', 'Home::index');
+// $routes->get('/', 'Home::index');
+$routes->get('/', 'Layanan::index');
 $routes->get('/layanan', 'Layanan::index');
 $routes->get('/layanan/tambah', 'Layanan::tambah');
 $routes->post('/layanan/simpan', 'Layanan::simpan');

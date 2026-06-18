@@ -67,7 +67,7 @@
                         </table>
                     </div>
 
-                    <h6 class="fw-bold text-uppercase text-muted mb-2" style="font-size: 0.85rem; letter-spacing: 1px;">Komponen Alur Kerja Layanan:</h6>
+                    <h6 class="fw-bold text-uppercase text-muted mb-2" style="font-size: 0.85rem; letter-spacing: 1px;">Alur Kerja Layanan:</h6>
                     <div class="card bg-light border-0 p-3 mb-4 rounded-3">
                         <ul class="mb-0 ps-3 text-secondary">
                             <?php foreach($komponen_layanan as $item) : ?>
