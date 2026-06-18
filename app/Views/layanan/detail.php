@@ -78,7 +78,7 @@
 
                     <div class="row g-3 bg-warning bg-opacity-10 border border-warning rounded-3 p-3 m-0">
                         <div class="col-sm-6">
-                            <small class="text-warning-emphasis d-block fw-semibold">Durasi Kerja Sistem:</small>
+                            <small class="text-warning-emphasis d-block fw-semibold">Estimasi Waktu:</small>
                             <span class="badge bg-warning text-dark px-3 py-2 fw-bold mt-1"><?= $order['estimasi_waktu']; ?></span>
                         </div>
                         <div class="col-sm-6">
